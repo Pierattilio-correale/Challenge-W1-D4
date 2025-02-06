@@ -191,6 +191,9 @@ aside a{
     background-color: #80808091;
  
 }
+.data{
+    text-align: right;
+}
 /* FOOTER */
 footer{
     margin-right: auto;
