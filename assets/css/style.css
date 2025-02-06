@@ -73,26 +73,86 @@ main{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
 main p{
     margin-top: 20px;
     margin-bottom: 20px;
 }
 main ul{
     list-style-type: disc;
+    padding-left: 2em;
+   
 }
 main ol{
     list-style-type: decimal;
+    padding-left: 2em;
+   
 }
+
 main h2{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
-
-/* ELEMENTI NEL MAIN - ARTICLE */
+ol li{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+ul li{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
 
 /* TABELLE */
-
+caption{
+    font-weight: 700;
+}
+th{
+    border: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #58b5ffd4;
+    color: white;
+   
+}
+.white{
+   border-color: #eeeeee3d;
+}
+td
+{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+tr{
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+   
+}
+.specialtr{
+    border: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #f0f8ffb3;
+    border-color: #f0f8ffb3;
+   
+    
+}
+.trunic{
+    border-bottom: solid;
+    border-color: blue;
+}
 /* FORM */
 
 /* ELEMENTI NELL' ASIDE */
