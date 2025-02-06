@@ -58,6 +58,11 @@ header li{
     margin-top: 4px;
     margin-bottom: 4px;
 }
+header i{
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+}
 /* MAIN */
 main{
     margin-right: auto;
